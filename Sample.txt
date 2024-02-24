@@ -1,2 +1,6 @@
 Hi there
+<<<<<<< HEAD
 My name is Utkarsh
+=======
+My name is Utkasrsh
+>>>>>>> 6fced8614ec012783282f8575b6a04e84f83b6b2
